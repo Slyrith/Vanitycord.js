@@ -1,0 +1,11 @@
+{
+  "name": "Vanitycord.js",
+  "description": "Get Custom Discord level 3 vanity invite link"
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Vanity", "Vanitycord.js", "Vanitycord"],
+  "license": "ISC"
+}
