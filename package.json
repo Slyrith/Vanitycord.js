@@ -1,11 +1,17 @@
 {
-  "name": "Vanitycord.js",
-  "description": "Get Custom Discord level 3 vanity invite link"
-  "version": "1.0.0",
+  "name": "vanitycord.js",
+  "description": "Get Custom Discord level 3 vanity invite link",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Slyrith/Vanitycord.js"
+  },
   "keywords": ["Vanity", "Vanitycord.js", "Vanitycord"],
-  "license": "ISC"
+  "license": "MIT",
+  "homepage": "https://github.com/Slyrith/Vanitycord.js",
+  "author": "slyrith"
 }
