@@ -1,4 +1,5 @@
 # Vanitycord.js
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com) [![Npm package total downloads](https://badgen.net/npm/dt/vanitycord.js)](https://npmjs.com/package/vanitycord.js) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Slyrith/Vanitycord.js/blob/main/LICENSE) [![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/Slyrith/Vanitycord.js/releases)
 
 Get Custom Discord level 3 vanity invite link
 
